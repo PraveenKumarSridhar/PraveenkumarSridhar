@@ -38,4 +38,14 @@ Love anything tech related as cliche as that sounds, I'm currently working as a 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Praveenkumar](https://twitter.com/prav1411);
 - 😄 Pronouns: he/him;
-  
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/python.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/tensorflow-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/Keras_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/R_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/scala.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/MongoDB_Logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/Postgresql_LOGO.svg"></code>
