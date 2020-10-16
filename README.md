@@ -22,7 +22,7 @@
 Hi, I'm Praveen Kumar Sridhar, a young Developer 🚀 from India.
 Love anything tech related as cliche as that sounds, I'm currently working as a data scientist/engineer. PS I'm also an avid gamer.
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/coding-freak.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/coding-freak.gif" width="500" height="300" />
 
 **Talking about Personal Stuffs:**
 
