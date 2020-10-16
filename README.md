@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**PraveenKumarSridhar/PraveenkumarSridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/prav1411">
+  <img align="left" alt="Praveen Kumar | Twitter" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/s-praveen-kumar-9a48a0148/">
+  <img align="left" alt="Praveen's LinkdeIN" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://t.me/PraveenKumarSridhar">
+  <img align="left" alt="Praveen's Telegram" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/Telegram_logo.svg" />
+</a>
+
+<a href="https://www.reddit.com/user/praveen1411/">
+  <img align="left" alt="Praveen's Reddit" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/reddit.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=PraveenKumarSridhar.PraveenKumarSridhar)
+<br/>
+<br/>
+
+
+Hi, I'm Praveen Kumar Sridhar, a young Developer 🚀 from India.
+Love anything tech related as cliche as that sounds, I'm currently working as a data scientist/engineer. PS I'm also an avid gamer.
+
+<br/>
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/coding-freak.gif" width="500" height="320" />
+
+<br />
+<br />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something awesome :wink:;
+- 🌱 I’m currently learning Tensorflow and Deep learning; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@Praveenkumar](https://twitter.com/prav1411);
+- 😄 Pronouns: he/him;
+  
