@@ -4,7 +4,7 @@
   <img align="left" alt="Praveen Kumar | Twitter" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/s-praveen-kumar-9a48a0148/">
+<a href="https://www.linkedin.com/in/praveenks23/">
   <img align="left" alt="Praveen's LinkdeIN" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/linkedin.svg" />
 </a>
 
