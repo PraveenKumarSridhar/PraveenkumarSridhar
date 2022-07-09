@@ -20,7 +20,7 @@
 <br/>
 
 Hi, I'm **Praveen Kumar Sridhar**, a Developer 🚀 from India.
-I used to work as a data scientist/engineer and I love anything tech-related, as corny as it sounds. At the moment, I'm pursuing a Master's degree in Data Science at Northeastern University. PS: I'm an avid gamer and a huge fan of Hamilton (the one Lin-Manuel Miranda).
+I'm currently interning at Meta (Facebook) as a data scientist. I'm pursuing a Master's degree in Data Science at Northeastern University. I used to work as a data scientist at a fintech firm and I love anything tech-related, as corny as it sounds. PS: I'm an avid gamer and a huge fan of Hamilton (the one Lin-Manuel Miranda).
 
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/coding-freak.gif" width="500" height="300" />
 
