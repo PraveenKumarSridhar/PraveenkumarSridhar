@@ -24,6 +24,7 @@ I'm currently interning at Meta (Facebook) as a data scientist. I'm pursuing a M
 <p align="center">
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/coding-freak.gif" width="500" height="300" />
 </p>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something awesome :wink:;
