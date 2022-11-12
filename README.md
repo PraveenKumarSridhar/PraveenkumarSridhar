@@ -1,19 +1,9 @@
 ### Hey there 👋
 
-<a href="https://twitter.com/prav1411">
-  <img align="left" alt="Praveen Kumar | Twitter" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/twitter.svg" />
-</a>
+
 
 <a href="https://www.linkedin.com/in/praveenks23/">
   <img align="left" alt="Praveen's LinkdeIN" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/linkedin.svg" />
-</a>
-
-<a href="https://t.me/PraveenKumarSridhar">
-  <img align="left" alt="Praveen's Telegram" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/Telegram_logo.svg" />
-</a>
-
-<a href="https://www.reddit.com/user/praveen1411/">
-  <img align="left" alt="Praveen's Reddit" width="30px" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/reddit.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PraveenKumarSridhar.PraveenKumarSridhar)
