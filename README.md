@@ -9,17 +9,34 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=PraveenKumarSridhar.PraveenKumarSridhar)
 <br/>
 
-Hi, I'm **Praveen Kumar Sridhar**, a Developer 🚀 from India.
-I'm currently a research assistant working under prof. Silvio Amir on on Characterizing the Impact of Influential Actors on the Dynamics of #MeToo Online Social Movement. I previously interned at <b>Meta (Facebook) as a data scientist</b>. I'm pursuing a Master's degree in Data Science at Northeastern University. I used to work as a data scientist at a fintech firm and I love anything tech-related, as corny as it sounds. PS: I'm an avid gamer and a huge fan of Hamilton (the one with Lin-Manuel Miranda).
+🤖 Machine Learning Engineer at Nextdoor | Content Moderation Specialist 🚀
+
+👨‍💻 Hello there! I'm [Your Name], a dedicated Machine Learning Engineer with a knack for fine-tuning algorithms to keep online communities safe. Currently, I'm on a thrilling journey as a part of the Nextdoor team, where I specialize in content moderation, ensuring that our platform remains a welcoming and secure space for neighbors to connect.
+
+📚 My academic journey led me to Northeastern University, where I delved into the captivating world of Machine Learning and Deep Learning. During my time there, I had the privilege of contributing to NLP Research.
+
+🌐 Prior to my role at Nextdoor, I gained invaluable insights as a Meta Data Science intern, learning from some of the brightest minds in the industry. This experience complemented my educational background, which includes a Master's degree from Northeastern University, providing me with a strong foundation to thrive in the world of data and algorithms.
+
+💼 With over 3 years of professional experience, I have had the privilege of working on cutting-edge Machine Learning and Deep Learning projects in the fintech and insurance sectors. These experiences have honed my ability to develop innovative solutions that drive business success and enhance customer experiences.
+
+💬 My passion lies in Natural Language Processing (NLP) and Computer Vision, where I find endless opportunities to apply AI to real-world challenges. Whether it's deciphering complex text data or interpreting images, I'm driven by the endless possibilities that these fields offer.
+
+🧠 I'm a firm believer in lifelong learning, and I make it a point to challenge myself daily in the realms of Machine Learning, software development, and tech trivia. Staying at the forefront of these ever-evolving domains keeps me inspired and ready to tackle the next big problem.
+
+🌟 Let's connect and explore the exciting possibilities at the intersection of technology and innovation. Feel free to reach out—I'm always up for a tech chat!
+
+
+
+
+
+
 <p align="center">
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/PraveenKumarSridhar/PraveenkumarSridhar/main/assets/coding-freak.gif" width="500" height="300" />
 </p>
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something awesome :wink:;
-- 🌱 I’m currently learning Tensorflow and Deep learning; 
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I'm but a simple farmer tending to my bits!!! :wink:;
 - 📫 How to reach me: [@Praveenkumar](https://twitter.com/prav1411);
 - 😄 Pronouns: he/him;
 
