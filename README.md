@@ -17,7 +17,7 @@
 
 🌐 Prior to my role at Nextdoor, I gained invaluable insights as a Meta Data Science intern, learning from some of the brightest minds in the industry. This experience complemented my educational background, which includes a Master's degree from Northeastern University, providing me with a strong foundation to thrive in the world of data and algorithms.
 
-💼 With over 3 years of professional experience, I have had the privilege of working on cutting-edge Machine Learning and Deep Learning projects in the fintech and insurance sectors. These experiences have honed my ability to develop innovative solutions that drive business success and enhance customer experiences.
+💼 With nearly 4 years of professional experience, I have had the privilege of working on cutting-edge Machine Learning and Deep Learning projects in the fintech and insurance sectors. These experiences have honed my ability to develop innovative solutions that drive business success and enhance customer experiences.
 
 💬 My passion lies in Natural Language Processing (NLP) and Computer Vision, where I find endless opportunities to apply AI to real-world challenges. Whether it's deciphering complex text data or interpreting images, I'm driven by the endless possibilities that these fields offer.
 
