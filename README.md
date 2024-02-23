@@ -1,9 +1,9 @@
 ### Hey there 👋
 
 
-🤖 Machine Learning Engineer II at Nextdoor 🚀
+🤖 Machine Learning Engineer II at Citizen 🚀
 
-👨‍💻 Hello there! I'm Praveen Kumar Sridhar, a dedicated Machine Learning Engineer with a knack for fine-tuning algorithms to keep online communities safe. Currently, I'm on a thrilling journey as a part of the Nextdoor team, where I specialize in content moderation, ensuring that our platform remains a welcoming and secure space for neighbors to connect.
+👨‍💻 Hello there! I'm Praveen Kumar Sridhar, a dedicated Machine Learning Engineer with a knack for fine-tuning algorithms to keep online communities safe. Currently, I'm on a thrilling journey as a part of the Citizen's team, where I specialize in building a Notification System.
 
 📚 My academic journey led me to Northeastern University, where I delved into the captivating world of Machine Learning and Deep Learning. During my time there, I had the privilege of contributing to NLP Research.
 
