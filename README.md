@@ -1,9 +1,9 @@
 ### Hey there 👋
 
 
-🤖 Machine Learning Engineer II at Citizen 🚀
+🤖 Data Scientist 4 at Meta🚀
 
-👨‍💻 Hello there! I'm Praveen Kumar Sridhar, a dedicated Machine Learning Engineer with a knack for fine-tuning algorithms to keep online communities safe. Currently, I'm on a thrilling journey as a part of the Citizen's team, where I specialize in building a Notification System.
+👨‍💻 Hello there! I'm Praveen Kumar Sridhar, a dedicated Machine Learning Engineer/Data Scientist. Previously, I was on a thrilling journey as a part of the Citizen's team, where I specialized in building a Notification System.
 
 📚 My academic journey led me to Northeastern University, where I delved into the captivating world of Machine Learning and Deep Learning. During my time there, I had the privilege of contributing to NLP Research.
 
